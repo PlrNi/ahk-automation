@@ -1,6 +1,6 @@
 # AutoHotkey Scripts
 
-A collection of AutoHotkey scripts for automating tasks / Cis, Database management system, data entry.
+A collection of AutoHotkey scripts for automating tasks / Website navigation, Database management system, data entry.
 
 ## Scripts
 
