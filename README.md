@@ -30,7 +30,8 @@ A collection of AutoHotkey scripts for automating tasks / Website navigation, Da
 - **Search Name K Ermineuti - (Q W).ahk**: Name&Artist search
 - **Search Name & Artist - (Q W X & Delete Name).ahk**: Name&Artist search (trim name)
 - **Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk**: Composer/Artist Search/ no trim
-- 
+
+
   
 ![image](https://www.autohotkey.com/logos/ahk_logo.png)
 
