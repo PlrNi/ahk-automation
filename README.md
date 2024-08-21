@@ -4,32 +4,33 @@ A collection of AutoHotkey scripts for automating tasks / Cis, Database manageme
 
 ## Scripts
 
-- **Cop. past for 1 tab for CIS Shift Ctrl.ahk**: Copy and pasting - 1 tab forn CISnet
-- **Cop. past for 4 tab for dim. ekt a s FOR CIS.ahk**: Copy and pasting - 4 tab forn CISnet
-- **Cop. past for 6 tab for dim. ekt a s.ahk**: Copy and pasting - 6 tab forn CISnet
-- **Copy and paste script.ahk**: C+P
-- **delete enter.ahk**: Delete data entries
-- **double spacebar and down arrow new.ahk**: MS softw. Navigating
+- **CIS Shift Ctrl (1 Tab).ahk**: Copy and pasting - 1 tab forn CISnet
+- **DIM EKT A S (4 Tabs) for CIS.ahk**: Copy and pasting - 4 tab forn CISnet
+- **DIM EKT A S (6 Tabs).ahk**: Copy and pasting - 6 tab forn CISnet
+- **Copy and Paste Script.ahk**: C+P
+- **Delete Enter.ahk**: Delete data entries
+- **Double Spacebar and Down Arrow.ahk**: MS softw. Navigating
 - **EKPR - MI EKPR.ahk**: EKPR - MI EKPR.ahk
-- **expand and first tick and Up two - Only Z.ahk**: expand and first tick and Up two - Only Z
-- **expand and first tick and Up two - with z x.ahk**: expand and first tick and Up two - with z x
-- **expand and first tick and Up two.ahk**: expand and first tick and Up two
-- **expand and tick 1 entopismeno Mono me C.ahk**: expand and tick 1 C
-- **expand and tick entopismeno c v.ahk**: expand and tick entopismeno c+p
-- **one spacebar and down arrow new.ahk**: one spacebar and down arrow new
-- **send 180.ahk**: 180 Loops
-- **spacebar expand tick first new.ahk**: New tick
-- **sum cinema.ahk**: Summation
-- **Νέο AutoHotkey Script Kalo1.ahk**: Producton test script 1
-- **Νέο AutoHotkey Script (3) - Αντιγραφή.ahk**: Producton test script 3
-- **Νέο AutoHotkey Script (2).ahk**: Producton test script 2
-- **alt n.jpg**: Alt new
-- **New AutoHotkey Script.ahk**: Producton test script
-- **Anazitisi paragwgis.ahk**: Production search
-- **Anazitisi paragwgis (με alt dow to matching key).ahk**: Production search+matching key
-- **Anazitisi onomatos q.ahk**: Name search
-- **Anazitisi onomatos k ermineuti - dimiourgou q w.ahk**: Composer/Artist Search
-- **Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk**: Composer/Artist Search/ no deletion
+- **Expand and First Tick (Up Two - Only Z).ahk**: expand and first tick and Up two - Only Z
+- **Expand and First Tick (Up Two - with Z & X).ahk**: expand and first tick and Up two - with z x
+- **Expand and First Tick (Up Two).ahk**: expand and first tick and Up two
+- **Expand and Tick 1 (Entopismeno Mono me C).ahk**: expand and tick 1 C
+- **Expand and Tick (Entopismeno C & V).ahk**: expand and tick entopismeno c+p
+- **One Spacebar and Down Arrow.ahk**: one spacebar and down arrow new
+- **Send 180.ahk**: 180 Loops
+- **Spacebar Expand Tick First.ahk**: New tick
+- **Sum cinema.ahk**: Summation
+- **New AutoHotkey Script (Test 0).ahk**: Producton test script 0
+- **New AutoHotkey Script (Test 3).ahk**: Producton test script 3
+- **New AutoHotkey Script (Test 2).ahk.ahk**: Producton test script 2
+- **New AutoHotkey Script (Test 1).ahk**: Producton test script 1
+- **Search Production.ahk**: Production search
+- **Search Production (with Alt Down for Matching Key).ahk**: Production search+matching key
+- **Search Name Q.ahk**: Name search
+- **Search Name K Ermineuti - (Q W).ahk**: Name&Artist search
+- **Search Name & Artist - (Q W X & Delete Name).ahk**: Name&Artist search (trim name)
+- **Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk**: Composer/Artist Search/ no trim
+- 
   
 ![image](https://github.com/user-attachments/assets/8d8664fc-22d2-4f78-ad81-42e16d9b9b5c)
 
