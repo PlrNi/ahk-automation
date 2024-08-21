@@ -10,128 +10,88 @@ This file documents the AutoHotkey scripts available in the repository. Each scr
 
 ### General Scripts
 
-1. **Copy and Paste Script**
-   - **Filename:** `Copy and paste script.ahk`
-   - **Description:** Automates copy and paste operations.
-   - **Usage:** Double-click the script to run. No additional configuration is needed.
+- **`Copy and Paste Script.ahk`**  
+  **Description:** Automates copy and paste operations.
 
-2. **Delete Enter**
-   - **Filename:** `delete enter.ahk`
-   - **Description:** Deletes the Enter key input.
-   - **Usage:** Double-click the script to run. Adjust settings if necessary.
+- **`Delete Enter.ahk`**  
+  **Description:** Deletes data entries.
 
-3. **Double Spacebar and Down Arrow (New)**
-   - **Filename:** `double spacebar and down arrow new.ahk`
-   - **Description:** Pressing the spacebar twice followed by the down arrow key triggers a specific action.
-   - **Usage:** Double-click the script to run.
+- **`Double Spacebar and Down Arrow.ahk`**  
+  **Description:** Facilitates navigation in Microsoft software by pressing the spacebar twice followed by the down arrow key.
 
-4. **One Spacebar and Down Arrow (New)**
-   - **Filename:** `one spacebar and down arrow new.ahk`
-   - **Description:** Pressing the spacebar once followed by the down arrow key triggers an action.
-   - **Usage:** Double-click to execute the script.
+- **`Send 180.ahk`**  
+  **Description:** Sends a predefined input of "180" for loops or iterations.
 
-5. **Send 180**
-   - **Filename:** `send 180.ahk`
-   - **Description:** Sends a predefined input of "180".
-   - **Usage:** Double-click to run.
+- **`Spacebar Expand Tick First.ahk`**  
+  **Description:** Expands tick settings with a new spacebar configuration.
+
+- **`Sum Cinema.ahk`**  
+  **Description:** Performs summation tasks.
 
 ### CIS & Related Tasks
 
-1. **CIS Shift Ctrl (1 Tab)**
-   - **Filename:** `Cop. past for 1 tab for CIS Shift Ctrl.ahk`
-   - **Description:** Automates a specific task involving CIS Shift Ctrl with 1 tab.
-   - **Usage:** Execute by double-clicking the script.
+- **`CIS Shift Ctrl (1 Tab).ahk`**  
+  **Description:** Automates copy and pasting with 1 tab for CISnet.
 
-2. **DIM EKT A S (4 Tabs) for CIS**
-   - **Filename:** `Cop. past for 4 tab for dim. ekt a s FOR CIS.ahk`
-   - **Description:** Handles tasks related to DIM EKT A S with 4 tabs for CIS.
-   - **Usage:** Double-click to run.
+- **`DIM EKT A S (4 Tabs) for CIS.ahk`**  
+  **Description:** Handles copy and pasting with 4 tabs for CISnet.
 
-3. **DIM EKT A S (6 Tabs)**
-   - **Filename:** `Cop. past for 6 tab for dim. ekt a s.ahk`
-   - **Description:** Handles tasks with DIM EKT A S and 6 tabs.
-   - **Usage:** Run by double-clicking the file.
+- **`DIM EKT A S (6 Tabs).ahk`**  
+  **Description:** Manages copy and pasting with 6 tabs for CISnet.
 
 ### Expansion & Ticks
 
-1. **Expand and First Tick (Up Two - Only Z)**
-   - **Filename:** `expand and first tick and Up two - Only Z.ahk`
-   - **Description:** Expands and applies the first tick, moving up two positions, focusing on "Z".
-   - **Usage:** Double-click to execute.
+- **`Expand and First Tick (Up Two - Only Z).ahk`**  
+  **Description:** Expands and applies the first tick, moving up two positions, focusing on "Z".
 
-2. **Expand and First Tick (Up Two - with Z & X)**
-   - **Filename:** `expand and first tick and Up two - with z x.ahk`
-   - **Description:** Similar to the above, but includes Z and X.
-   - **Usage:** Double-click to run.
+- **`Expand and First Tick (Up Two - with Z & X).ahk`**  
+  **Description:** Similar to the above, but includes Z and X.
 
-3. **Expand and First Tick (Up Two)**
-   - **Filename:** `expand and first tick and Up two.ahk`
-   - **Description:** Expands and applies the first tick, moving up two positions.
-   - **Usage:** Run by double-clicking.
+- **`Expand and First Tick (Up Two).ahk`**  
+  **Description:** Expands and applies the first tick, moving up two positions.
 
-4. **Expand and Tick 1 (Entopismeno Mono me C)**
-   - **Filename:** `expand and tick 1 entopismeno Mono me C.ahk`
-   - **Description:** Expands and applies the first tick with specific settings.
-   - **Usage:** Execute by double-clicking the script.
+- **`Expand and Tick 1 (Entopismeno Mono me C).ahk`**  
+  **Description:** Expands and applies the first tick with specific settings, focusing on C.
 
-5. **Expand and Tick (Entopismeno C & V)**
-   - **Filename:** `expand and tick entopismeno c v.ahk`
-   - **Description:** Applies tick settings with C and V.
-   - **Usage:** Run by double-clicking.
+- **`Expand and Tick (Entopismeno C & V).ahk`**  
+  **Description:** Applies tick settings with C and V.
 
-6. **Spacebar Expand Tick First (New)**
-   - **Filename:** `spacebar expand tick first new.ahk`
-   - **Description:** Expands tick settings with a new spacebar configuration.
-   - **Usage:** Double-click to execute.
+- **`One Spacebar and Down Arrow.ahk`**  
+  **Description:** Triggers an action with one spacebar press followed by the down arrow key.
 
 ### Search & Analysis
 
-1. **Search Production**
-   - **Filename:** `Anazitisi paragwgis.ahk`
-   - **Description:** Automates the search for production-related tasks.
-   - **Usage:** Run by double-clicking the script.
+- **`Search Production.ahk`**  
+  **Description:** Automates production search tasks.
 
-2. **Search Production (with Alt Down for Matching Key)**
-   - **Filename:** `Anazitisi paragwgis (με alt dow to matching key).ahk`
-   - **Description:** Includes additional functionality with Alt key for matching.
-   - **Usage:** Execute by double-clicking.
+- **`Search Production (with Alt Down for Matching Key).ahk`**  
+  **Description:** Includes additional functionality with Alt key for matching.
 
-3. **Search Name Q**
-   - **Filename:** `Anazitisi onomatos q.ahk`
-   - **Description:** Searches based on a specific name (Q).
-   - **Usage:** Double-click to run.
+- **`Search Name Q.ahk`**  
+  **Description:** Searches based on a specific name (Q).
 
-4. **Search Name K Ermineuti - Create Q W**
-   - **Filename:** `Anazitisi onomatos k ermineuti - dimiourgou q w.ahk`
-   - **Description:** Handles searching and creation based on name K with Q and W.
-   - **Usage:** Run by double-clicking.
+- **`Search Name K Ermineuti - (Q W).ahk`**  
+  **Description:** Handles searching and creation based on name K with Q and W.
 
-5. **Search Name K Ermineuti - Create Q W X & Delete Name**
-   - **Filename:** `Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk`
-   - **Description:** Comprehensive search and creation script with deletion.
-   - **Usage:** Double-click to execute.
+- **`Search Name & Artist - (Q W X & Delete Name).ahk`**  
+  **Description:** Comprehensive search and creation script with deletion.
 
-### New Scripts
+- **`Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk`**  
+  **Description:** Composer/Artist search with no name trimming.
 
-1. **Kalo1**
-   - **Filename:** `Νέο AutoHotkey Script Kalo1.ahk`
-   - **Description:** A new script for specific tasks.
-   - **Usage:** Run by double-clicking.
+### Test Scripts
 
-2. **Copy**
-   - **Filename:** `Νέο AutoHotkey Script (3) - Αντιγραφή.ahk`
-   - **Description:** New copy script.
-   - **Usage:** Execute by double-clicking.
+- **`New AutoHotkey Script (Test 0).ahk`**  
+  **Description:** Production test script 0.
 
-3. **General New Script**
-   - **Filename:** `Νέο AutoHotkey Script (2).ahk`
-   - **Description:** Another new general script.
-   - **Usage:** Double-click to run.
+- **`New AutoHotkey Script (Test 3).ahk`**  
+  **Description:** Production test script 3.
 
-4. **New AutoHotkey Script**
-   - **Filename:** `New AutoHotkey Script.ahk`
-   - **Description:** A general new script.
-   - **Usage:** Run by double-clicking.
+- **`New AutoHotkey Script (Test 2).ahk`**  
+  **Description:** Production test script 2.
+
+- **`New AutoHotkey Script (Test 1).ahk`**  
+  **Description:** Production test script 1.
 
 ---
 
