@@ -39,6 +39,6 @@ A collection of AutoHotkey scripts for automating tasks / Website navigation, Da
 ## Installation
 
 1. Download and install [AutoHotkey](https://www.autohotkey.com/).
-2. Clone this repository:
+2. Copy scripts from this repository:
    ```bash
    git clone https://github.com/PlrNi/ahk-automation.git
