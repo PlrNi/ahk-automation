@@ -1,0 +1,1 @@
+﻿$c:: send, {Shift down}{Right 1}{Shift up}{space}{Up 1}

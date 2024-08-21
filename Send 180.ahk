@@ -1,0 +1,1 @@
+﻿q::send, {Space 1}{Ctrl down}{v 1}{Ctrl up}{Down 1}

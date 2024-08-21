@@ -1,0 +1,2 @@
+﻿LShift::^c
+Ctrl::^v
