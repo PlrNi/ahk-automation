@@ -32,7 +32,7 @@ A collection of AutoHotkey scripts for automating tasks / Cis, Database manageme
 - **Anazitisi onomatos k ermineuti - dimiourgou q w x aneu delete onomatos.ahk**: Composer/Artist Search/ no trim
 - 
   
-![image](https://github.com/user-attachments/assets/8d8664fc-22d2-4f78-ad81-42e16d9b9b5c)
+![image](https://www.autohotkey.com/logos/ahk_logo.png)
 
 
 ## Installation
