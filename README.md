@@ -2,7 +2,7 @@
 
 ## Overview
 
-This file documents the AutoHotkey scripts for automating tasks / Website navigation, Data management & data entry. Each script is designed to automate specific tasks. Below you'll find a brief description of each script, along with usage instructions and notes for any required configurations.
+This file documents the AutoHotkey scripts for automating tasks / Web Data Tool, Data Management & Data Entry. Each script is designed to automate specific tasks. Below you'll find a brief description of each script, along with usage instructions and notes for any required configurations.
 
 ---
 
