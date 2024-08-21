@@ -1,0 +1,20 @@
+Custom Script License
+
+Copyright (c) [2024] [NP]
+
+1. **Grant of Rights**: You are granted permission to use, copy, and modify this script under the following conditions.
+
+2. **Conditions**:
+   - **Non-Commercial Use**: You may not use this script for commercial purposes without obtaining explicit permission from the copyright holder.
+   - **No Redistribution**: You are not allowed to redistribute the script or any modifications of it. This includes sharing the script in any form or including it in any other software or projects.
+   - **No Warranty**: The script is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages arising from the use or inability to use the script.
+
+3. **Modifications**: If you modify the script, you must document the changes made for your own records, but you are not required to share these modifications.
+
+4. **No Endorsement**: You may not use the names, trademarks, or other identifiers of the original author(s) or contributors without prior written permission.
+
+5. **Termination**: If you fail to comply with any of the terms of this license, your rights under this license will be terminated automatically.
+
+---
+
+**Note:** This license allows you to copy and modify the script for personal use while restricting redistribution and commercial use. For specific legal advice or clarification, consult a legal professional.
